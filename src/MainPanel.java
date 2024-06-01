@@ -15,7 +15,7 @@ public class MainPanel extends JPanel {
         addEmployeeButton.setFont(buttonFont);
 
         JButton removeEmployeeButton = new JButton("Remove Employee");
-        removeEmployeeButton.setSize(100,200);
+        removeEmployeeButton.setSize(1000,2000);
         removeEmployeeButton.setFont(buttonFont);
 
         JButton viewEmployeeButton = new JButton("View Employee Details");
